@@ -97,9 +97,7 @@ Run an instance by its basename, without the `.txt` extension:
 | `-Ins` | Instance basename. | Required for an explicit run. |
 | `-t` | Time limit in seconds. | `1800` |
 | `-seed` | Random seed. | `1` |
-| `-it` or `-nbIter` | Iteration limit. | `20000` |
-| `-Rato` | Algorithm ratio parameter. | `1` |
-| `-MaxIt` | Population-restart threshold. | `1` in the archived source; paper settings are in the supplement. |
+| `-it` or `-nbIter` | Iteration limit. | `10000` |
 | `-tollerance` | Deterministic cutoff tolerance (spelling follows the code). | `0.9` |
 | `-nbGranular`, `-mu`, `-lambda`, `-nbElite`, `-nbClose` | Population and neighborhood parameters. | See `src/AlgorithmParameters.cpp`. |
 
