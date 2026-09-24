@@ -1,0 +1,6 @@
+SetA&21&3&0&&23&1&0\\
+SetB&24&0&0&&24&0&0\\
+SetC&21&1&2&&23&0&1\\
+Total&66&4&2&&70&1&1\\
+\hline
+{\em p}-value&\multicolumn{3}{c}{5.85E-12}& &\multicolumn{3}{c}{5.11E-13}\\
