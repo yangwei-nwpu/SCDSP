@@ -1,10 +1,7 @@
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)][def]
 
 # A Simheuristic for the Cross-Docking Scheduling Problem under Uncertain Truck Arrival Times
 
-This repository is distributed in association with the [INFORMS Journal on Computing][def] under the [MIT License](LICENSE).
-
-It contains the code, benchmark instances, raw computational results, and analysis files used in:
+The software and data in this repository are a snapshot of the software and data used in the research reported in:
 
 - **Title:** A simheuristic for the cross-docking scheduling problem under uncertain truck arrival times
 - **Authors:** Wei Yang, Yang Wang, Jin-Kao Hao, Ada Che, and Abraham P. Punnen
@@ -12,7 +9,6 @@ It contains the code, benchmark instances, raw computational results, and analys
 
 The paper introduces SimHGS, a hybrid genetic simheuristic for a stochastic cross-docking scheduling problem with uncertain truck arrival times. SimHGS combines variable neighborhood descent, simulation-based local search, and a fast scenario-evaluation technique to optimize fixed truck sequences and release times.
 
-Ongoing development is hosted at [https://github.com/yangwei-nwpu/SCDSP](https://github.com/yangwei-nwpu/SCDSP). This repository is the archival snapshot associated with the paper.
 
 ## Cite
 
